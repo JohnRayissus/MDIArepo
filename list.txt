@@ -1,8 +1,3 @@
-Groceries 
-Bread 
-Butter
-Milk
-
 Schoolsupplies
 Pencil 
 Paper
